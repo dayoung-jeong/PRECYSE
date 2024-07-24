@@ -23,9 +23,11 @@ The MSCVR dataset contains multimodal time-series sensor data (eye movement, hea
 ## Citation
 
 ### APA
+
 Jeong, D., & Han, K. (2024). PRECYSE: Predicting Cybersickness using Transformer for Multimodal Time-Series Sensor Data. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 8(2), 1-24.
 
 ### BibTeX
+```
 @article{jeong2024precyse,
   title={PRECYSE: Predicting Cybersickness using Transformer for Multimodal Time-Series Sensor Data},
   author={Jeong, Dayoung and Han, Kyungsik},
@@ -36,3 +38,4 @@ Jeong, D., & Han, K. (2024). PRECYSE: Predicting Cybersickness using Transformer
   year={2024},
   publisher={ACM New York, NY, USA}
 }
+```
