@@ -2,6 +2,8 @@
 
 This repository contains the dataset and code for the IMWUT 2024 paper "PRECYSE: Predicting Cybersickness using Transformer for Multimodal Time-Series Sensor Data"
 
+[![DOI:10.1145/3659594](https://zenodo.org/badge/DOI/10.1145/3659594.svg)](https://doi.org/10.1145/3659594)
+
 [@dayoungjeong](https://scholar.google.com/citations?user=Hc_LRYkAAAAJ&hl=en)
 [@kyungsikhan](https://scholar.google.com/citations?user=htyp0xsAAAAJ&hl=en)
 
@@ -17,3 +19,20 @@ The MSCVR dataset contains multimodal time-series sensor data (eye movement, hea
 
 ### MS-STTS
 <img src="https://github.com/user-attachments/assets/19d9e420-fb0e-43ac-b04f-e6fc1292b511" width="500" height="500"/>
+
+## Citation
+
+### APA
+Jeong, D., & Han, K. (2024). PRECYSE: Predicting Cybersickness using Transformer for Multimodal Time-Series Sensor Data. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 8(2), 1-24.
+
+### BibTeX
+@article{jeong2024precyse,
+  title={PRECYSE: Predicting Cybersickness using Transformer for Multimodal Time-Series Sensor Data},
+  author={Jeong, Dayoung and Han, Kyungsik},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={8},
+  number={2},
+  pages={1--24},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}
