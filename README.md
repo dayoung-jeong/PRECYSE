@@ -3,7 +3,7 @@
 
 # PRECYSE
 
-This repository contains the dataset and code for the IMWUT 2024 paper "PRECYSE: Predicting Cybersickness using Transformer for Multimodal Time-Series Sensor Data"
+This repository contains the dataset for the IMWUT 2024 paper "PRECYSE: Predicting Cybersickness using Transformer for Multimodal Time-Series Sensor Data"
 
 [![DOI:10.1145/3659594](https://zenodo.org/badge/DOI/10.1145/3659594.svg)](https://doi.org/10.1145/3659594)
 
